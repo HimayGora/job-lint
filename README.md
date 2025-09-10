@@ -134,7 +134,7 @@ Comming in a soon in a sprint near you
 AGPL-3.0
 
 
-
+## Requirements
 - Python 3.8+
 - No external dependencies beyond standard library
 
