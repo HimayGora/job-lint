@@ -16,14 +16,14 @@ A rule-based NLP tool for cutting through the nonsense in job postings. It catch
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/job-lint.git
+git clone https://github.com/HimayGora/job-lint
 cd job-lint
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run on a job posting
-python job_parser.py job-posting.txt
+python job_lint.py job-posting.txt
 ```
 
 ## Usage
@@ -31,7 +31,7 @@ python job_parser.py job-posting.txt
 ### Basic Usage
 ```bash
 # Analyze a single job posting
-python job_parser.py path/to/job-posting.txt
+python job_lint.py path/to/job-posting.txt
 ```
 
 ### Example Output
@@ -120,10 +120,7 @@ Contributions will be welcomed after the initial development phase is complete (
 
 ## Testing
 
-```bash
-# Run basic functionality tests
-python test_job_parser.py
-```
+Comming in a soon in a sprint near you
 
 ## Architecture
 
