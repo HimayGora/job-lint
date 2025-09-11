@@ -1,4 +1,6 @@
-# job-lint
+# Job-Lint
+
+**Ever send 500 applications and get 50 rejection emails—5 of which actually had your name in them?**
 
 A rule-based NLP tool for cutting through the nonsense in job postings. It catches inflated requirements, mismatched salaries, and corporate fluff—so you can focus on real opportunities instead of wasting time.
 
@@ -120,7 +122,7 @@ Contributions will be welcomed after the initial development phase is complete (
 
 ## Testing
 
-Comming in a soon in a sprint near you
+*Coming in a soon in a sprint near you*
 
 ## Architecture
 
