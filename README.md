@@ -101,9 +101,9 @@ Supports analysis of 12+ technology families:
 job-lint is in active development (Sprint 3/16). The API and data structures may change significantly before v1.0.
 
 ### Roadmap
-- **Sprint 4-8**: Red flag detection, corporate BS patterns, batch processing
+- **Sprint 4-8**: Red flag detection, corporate BS patterns 
 - **Sprint 9-12**: Resume parsing, enhanced fuzzy matching, performance optimization  
-- **Sprint 13-16**: CLI wrapper, install scripts, contributor guidelines
+- **Sprint 13-16**: CLI wrapper, batch processing, install scripts, contributor guidelines
 
 ## Contributing
 
